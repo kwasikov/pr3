@@ -9,17 +9,9 @@
             string operation = Console.ReadLine();
             switch (operation)
             {
-                case "+":
-                    Console.WriteLine($"{a + b}") ;
-                    break;
+
                 case "-":
                     Console.WriteLine($"{a - b}");
-                    break;
-                case "*":
-                    Console.WriteLine($"{a * b}");
-                    break;
-                case "/":
-                    Console.WriteLine($"{a / b}");
                     break;
 
             }
