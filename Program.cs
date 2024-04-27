@@ -12,16 +12,6 @@
                 case "+":
                     Console.WriteLine($"{a + b}") ;
                     break;
-                case "-":
-                    Console.WriteLine($"{a - b}");
-                    break;
-                case "*":
-                    Console.WriteLine($"{a * b}");
-                    break;
-                case "/":
-                    Console.WriteLine($"{a / b}");
-                    break;
-
             }
         }
         static void vvod()
