@@ -12,3 +12,4 @@ C:\Users\student\Documents\Krasikov\pr3krasikov\obj\Debug\net8.0\refint\pr3krasi
 C:\Users\student\Documents\Krasikov\pr3krasikov\obj\Debug\net8.0\pr3krasikov.pdb
 C:\Users\student\Documents\Krasikov\pr3krasikov\obj\Debug\net8.0\pr3krasikov.genruntimeconfig.cache
 C:\Users\student\Documents\Krasikov\pr3krasikov\obj\Debug\net8.0\ref\pr3krasikov.dll
+C:\Users\student\Documents\Krasikov\pr3krasikov\obj\Debug\net8.0\pr3krasikov.sourcelink.json
