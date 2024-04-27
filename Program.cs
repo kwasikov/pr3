@@ -11,18 +11,6 @@
             string operation = Console.ReadLine();
             switch (operation)
             {
-                case "+":
-                    Console.WriteLine($"Ответ: {a + b}");
-                    break;
-
-                case "-":
-                    Console.WriteLine($"Ответ: {a - b}");
-                    break;
-
-                case "*":
-                    Console.WriteLine($"Ответ: {a * b}");
-                    break;
-
                 case "/":
                     Console.WriteLine($"Ответ: {a / b}");
                     break;
