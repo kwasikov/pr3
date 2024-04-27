@@ -5,31 +5,31 @@
         static int a, b;
         static void Main(string[] args)
         {
-            vvod();
+            a = int.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
+            
             string operation = Console.ReadLine();
             switch (operation)
             {
                 case "+":
-                    Console.WriteLine($"{a + b}") ;
-                    break;
-                case "-":
-                    Console.WriteLine($"{a - b}");
-                    break;
-                case "*":
-                    Console.WriteLine($"{a * b}");
-                    break;
-                case "/":
-                    Console.WriteLine($"{a / b}");
+                    Console.WriteLine($"Ответ: {a + b}");
                     break;
 
+                case "-":
+                    Console.WriteLine($"Ответ: {a - b}");
+                    break;
+
+                case "*":
+                    Console.WriteLine($"Ответ: {a * b}");
+                    break;
+
+                case "/":
+                    Console.WriteLine($"Ответ: {a / b}");
+                    break;
             }
         }
-        static void vvod()
-        {
-            a = int.Parse(Console.ReadLine());
-            b = int.Parse(Console.ReadLine());
-            
-        }
+        
+        
         
         
         
