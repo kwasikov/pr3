@@ -18,13 +18,15 @@
                 case "*":
                     Console.WriteLine($"{a * b}");
                     break;
+                case "-":
+                    Console.WriteLine($"{a - b}");
+                    break;
             }
         }
         static void vvod()
         {
             a = int.Parse(Console.ReadLine());
             b = int.Parse(Console.ReadLine());
-            
         }
         
         
